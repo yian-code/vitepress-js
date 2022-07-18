@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as p,a as n}from"./app.762839c2.js";const A=JSON.parse('{"title":"TypeScript","description":"","frontmatter":{},"headers":[],"relativePath":"ts/index.md"}'),e={name:"ts/index.md"},t=n("",7),c=[t];function l(o,r,i,d,_,y){return p(),a("div",null,c)}var g=s(e,[["render",l]]);export{A as __pageData,g as default};
